@@ -1,4 +1,4 @@
 <?php
   // Ceci est un test
-  echo "OK";
+  echo "OK.";
 ?>
